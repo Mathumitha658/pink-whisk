@@ -1,0 +1,26 @@
+[
+    {
+    "id": 1,
+    "name": "Strawberry Delight",
+    "price": 799,
+    "img": "/images/strawberry.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Heaven",
+    "price": 899,
+    "img": "/images/chocolate.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Vanilla Dream",
+    "price": 749,
+    "img": "/images/vanila.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Red Velvet Bliss",
+    "price": 999,
+    "img": "/images/redvelvet.jpeg"
+  }
+]

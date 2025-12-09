@@ -1,0 +1,31 @@
+
+.register-container {
+  background: linear-gradient(180deg, #ffe6f0, #ffffff);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-card {
+  background-color: #fff;
+  border-radius: 20px;
+  width: 400px;
+}
+
+.text-pink {
+  color: #e75480;
+}
+
+.btn-pink {
+  background-color: #e75480;
+  color: white;
+  font-weight: bold;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-pink:hover {
+  background-color: #ff6699;
+  transform: scale(1.02);
+}

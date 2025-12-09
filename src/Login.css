@@ -1,0 +1,89 @@
+/* 🌸 Pink Whisk Login Page Theme */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom right, #ffe6f0, #fff0f5);
+  color: #444;
+}
+
+/* Page Container */
+.login-container {
+  background: linear-gradient(to bottom right, #ffe6f0, #fff0f5);
+}
+
+/* Card */
+.login-card {
+  width: 380px;
+  border-radius: 20px;
+  border: none;
+  background-color: #fff;
+}
+
+/* Brand Text */
+.brand-text {
+  color: #ff69b4;
+}
+
+/* Button */
+.login-btn {
+  background-color: #ff69b4;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 0.3s ease;
+}
+
+.login-btn:hover {
+  background-color: #ff85c1;
+}
+
+/* Links */
+.link-pink {
+  color: #ff69b4;
+  text-decoration: none;
+}
+
+.link-pink:hover {
+  text-decoration: underline;
+}
+
+/* Inputs */
+.form-control:focus {
+  border-color: #ff69b4;
+  box-shadow: 0 0 4px #ffb6c1;
+}
+.login-container {
+  background-color: #ffe6f0;
+}
+
+.login-card {
+  width: 360px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+
+.brand-text {
+  color: #ff4da6;
+}
+
+.login-btn {
+  background-color: #ff4da6;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+.login-btn:hover {
+  background-color: #ff1a8c;
+}
+
+.link-pink {
+  color: #ff4da6;
+  text-decoration: none;
+}
+
+.link-pink:hover {
+  text-decoration: underline;
+}
+

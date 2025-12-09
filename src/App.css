@@ -1,0 +1,14 @@
+
+
+body {
+  background: linear-gradient(to bottom, #ffe6f0, #fff);
+}
+
+.nav-link:hover {
+  color: #e75480 !important;
+  text-decoration: underline;
+}
+
+.text-pink {
+  color: #e75480;
+}

@@ -1,0 +1,66 @@
+
+.cakes-page {
+  background: linear-gradient(180deg, #ffe6f0, #ffffff);
+  min-height: 100vh;
+}
+
+.text-pink {
+  color: #e75480;
+}
+
+.btn-pink {
+  background-color: #e75480;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-pink:hover {
+  background-color: #ff6699;
+  transform: scale(1.05);
+}
+
+.cake-card {
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+
+.cake-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(231, 84, 128, 0.3);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-radius: 15px 15px 0 0;
+}
+.text-pink {
+  color: #ff66a3;
+}
+
+.btn-pink {
+  background-color: #ff66a3;
+  color: white;
+  font-weight: 600;
+  border-radius: 8px;
+}
+
+.btn-pink:hover {
+  background-color: #ff3385;
+}
+
+.btn-outline-pink {
+  border: 2px solid #ff66a3;
+  color: #ff66a3;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.btn-outline-pink:hover {
+  background-color: #ff66a3;
+  color: white;
+}
+
+
