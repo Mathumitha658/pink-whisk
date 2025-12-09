@@ -7,6 +7,7 @@ import Cakes from "./Cakes";
 import Footer from "./Footer";
 import Header from "./Header";
 import About from "./About";
+import CupCakes from "./cupcakes";
 
 function HomePage() {
   return (
@@ -92,6 +93,7 @@ function HomePage() {
       </div>
 
       <Cakes />
+      <CupCakes/>
       <About/>
       <Footer />
     </>
